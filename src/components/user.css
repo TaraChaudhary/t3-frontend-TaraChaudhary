@@ -1,0 +1,110 @@
+.userEach{
+    width:80%;
+    background: #ddd;
+    border:1px solid #000;
+    float: center;
+    margin: 1%;
+
+}
+
+#del{
+    padding: 5px 10px 5px 10px;
+    border-radius: 2px;
+    font-size: 40px;
+}
+.logout
+{
+    float: right;
+}
+table{
+    width: 100%;
+    align-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+  }
+  th {
+    text-align: left;
+  }
+  .firstname
+  {
+      width: 25.41%;
+  }
+  .lastname
+  {
+      width: 23.11%;
+  }
+  .view
+  {
+      width: 15.11%;
+  }
+  .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+
+
+
+.top
+{
+    margin-top:20px ;
+}
+.avatar
+{
+    height: 200px;
+}
+.detail
+
+{
+    width: 80%;
+    margin-left: 10%;
+}
+.update
+{
+    width: 90%;
+}
+.width
+
+{
+
+    width:10% ;
+}
+.left
+{  
+ margin-top: 20px;
+   text-align: left;
+   height: 20px;
+   width: 100%;
+   align-items: center;
+  
+
+   
+}
+.center
+
+{ background-color: ivory;
+    width: 100%;
+    align-content: center;
+  
+ 
+   
+ 
+}
+section
+{
+    height: auto;
+}
